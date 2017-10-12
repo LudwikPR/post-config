@@ -9,4 +9,4 @@ Registering the post-installation configuration script can be done in two differ
 * using a *custom installation*,
 * creating a new template.
 
-In both cases, the *Post installation script link* URI should be set to  ``https://raw.githubusercontent.com/MatthieuMichon/post-config/master/scripts/ovh/ovh.sh``
+In both cases, the *Post installation script link* URI should be set to  ``https://raw.githubusercontent.com/LudwikPR/post-config/master/scripts/ovh/ovh.sh``
